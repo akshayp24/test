@@ -1,1 +1,3 @@
 Syncing issues testing 
+
+(Test-2)Now the master repo has some new changes which I do not have in my forked repo. Also, these particular string is not on the master repo. Goal is to merge and sync the changes (i.e, Both the master repo and this forked repo should have up to date content)
